@@ -1,0 +1,366 @@
+[
+  {
+    "No": 1,
+    "Nama bandara": "Bandara Udara Internasional Soekarno–Hatta",
+    "Provinsi": "Banten",
+    "IATA": "Tangerang",
+    "ICAO": "CGK"
+  },
+  {
+    "No": 2,
+    "Nama bandara": "Bandara Udara Internasional Ngurah Rai",
+    "Provinsi": "Bali",
+    "IATA": "Denpasar",
+    "ICAO": "DPS"
+  },
+  {
+    "No": 3,
+    "Nama bandara": "Bandara Udara Internasional Juanda",
+    "Provinsi": "Jawa Timur",
+    "IATA": "Sidoarjo",
+    "ICAO": "SUB"
+  },
+  {
+    "No": 4,
+    "Nama bandara": "Bandara Udara Internasional Sultan Hasanuddin",
+    "Provinsi": "Sulawesi Selatan",
+    "IATA": "Makassar",
+    "ICAO": "UPG"
+  },
+  {
+    "No": 5,
+    "Nama bandara": "Bandara Udara Internasional Kualanamu",
+    "Provinsi": "Sumatra Utara",
+    "IATA": "Deli Serdang",
+    "ICAO": "KNO"
+  },
+  {
+    "No": 6,
+    "Nama bandara": "Bandara Udara Internasional Adisutjipto",
+    "Provinsi": "Daerah Istimewa Yogyakarta",
+    "IATA": "Yogyakarta",
+    "ICAO": "JOG"
+  },
+  {
+    "No": 7,
+    "Nama bandara": "Bandara Udara Halim Perdanakusuma",
+    "Provinsi": "DKI Jakarta",
+    "IATA": "Jakarta",
+    "ICAO": "HLP"
+  },
+  {
+    "No": 8,
+    "Nama bandara": "Bandara Udara Internasional Hang Nadim",
+    "Provinsi": "Kepulauan Riau",
+    "IATA": "Batam",
+    "ICAO": "BTH"
+  },
+  {
+    "No": 9,
+    "Nama bandara": "Bandara Udara Internasional Sultan Mahmud Badaruddin II",
+    "Provinsi": "Sumatra Selatan",
+    "IATA": "Palembang",
+    "ICAO": "PLM"
+  },
+  {
+    "No": 10,
+    "Nama bandara": "Bandara Udara Internasional Jenderal Ahmad Yani",
+    "Provinsi": "Jawa Tengah",
+    "IATA": "Semarang",
+    "ICAO": "SRG"
+  },
+  {
+    "No": 11,
+    "Nama bandara": "Bandara Udara Internasional Husein Sastranegara",
+    "Provinsi": "Jawa Barat",
+    "IATA": "Bandung",
+    "ICAO": "BDO"
+  },
+  {
+    "No": 12,
+    "Nama bandara": "Bandara Udara Internasional Supadio",
+    "Provinsi": "Kalimantan Barat",
+    "IATA": "Pontianak",
+    "ICAO": "PNK"
+  },
+  {
+    "No": 13,
+    "Nama bandara": "Bandara Udara Internasional Zainuddin Abdul Madjid",
+    "Provinsi": "Nusa Tenggara Barat",
+    "IATA": "Mataram",
+    "ICAO": "LOP"
+  },
+  {
+    "No": 14,
+    "Nama bandara": "Bandara Udara Internasional Sultan Syarif Kasim II",
+    "Provinsi": "Riau",
+    "IATA": "Pekanbaru",
+    "ICAO": "PKU"
+  },
+  {
+    "No": 15,
+    "Nama bandara": "Bandara Udara Internasional Minangkabau",
+    "Provinsi": "Sumatra Barat",
+    "IATA": "Padang",
+    "ICAO": "PDG"
+  },
+  {
+    "No": 16,
+    "Nama bandara": "Bandara Udara internasional Syamsudin Noor",
+    "Provinsi": "Kalimantan Selatan",
+    "IATA": "Banjarmasin",
+    "ICAO": "BDJ"
+  },
+  {
+    "No": 17,
+    "Nama bandara": "Bandara Udara Internasional Sam Ratulangi",
+    "Provinsi": "Sulawesi Utara",
+    "IATA": "Manado",
+    "ICAO": "MDC"
+  },
+  {
+    "No": 18,
+    "Nama bandara": "Bandara Udara Internasional Radin Inten II",
+    "Provinsi": "Lampung",
+    "IATA": "Bandar Lampung",
+    "ICAO": "TKG"
+  },
+  {
+    "No": 19,
+    "Nama bandara": "Bandara Udara Internasional Adisumarmo",
+    "Provinsi": "Jawa Tengah",
+    "IATA": "Solo",
+    "ICAO": "SOC"
+  },
+  {
+    "No": 20,
+    "Nama bandara": "Bandara Udara Internasional Sentani",
+    "Provinsi": "Papua",
+    "IATA": "Jayapura",
+    "ICAO": "DJJ"
+  },
+  {
+    "No": 21,
+    "Nama bandara": "Bandara Udara Depati Amir",
+    "Provinsi": "Bangka Belitung",
+    "IATA": "Pangkal Pinang",
+    "ICAO": "PGK"
+  },
+  {
+    "No": 22,
+    "Nama bandara": "Bandara Udara El Tari",
+    "Provinsi": "Nusa Tenggara Timur",
+    "IATA": "Kupang",
+    "ICAO": "KOE"
+  },
+  {
+    "No": 23,
+    "Nama bandara": "Bandara Udara Sultan Thaha",
+    "Provinsi": "Jambi",
+    "IATA": "Kota Jambi",
+    "ICAO": "DJB"
+  },
+  {
+    "No": 24,
+    "Nama bandara": "Bandara Udara Domine Eduard Osok",
+    "Provinsi": "Papua Barat",
+    "IATA": "Sorong",
+    "ICAO": "SOQ"
+  },
+  {
+    "No": 25,
+    "Nama bandara": "Bandara Udara Haluoleo",
+    "Provinsi": "Sulawesi Tenggara",
+    "IATA": "Kendari",
+    "ICAO": "KDI"
+  },
+  {
+    "No": 26,
+    "Nama bandara": "Bandara Udara Pattimura",
+    "Provinsi": "Maluku",
+    "IATA": "Ambon",
+    "ICAO": "AMQ"
+  },
+  {
+    "No": 27,
+    "Nama bandara": "Bandara Udara Mutiara",
+    "Provinsi": "Sulawesi Tengah",
+    "IATA": "Palu",
+    "ICAO": "PLW"
+  },
+  {
+    "No": 28,
+    "Nama bandara": "Bandara Udara Abdul Rachman Saleh",
+    "Provinsi": "Jawa Timur",
+    "IATA": "Malang",
+    "ICAO": "MLG"
+  },
+  {
+    "No": 29,
+    "Nama bandara": "Bandara Udara Internasional Sultan Iskandar Muda",
+    "Provinsi": "Aceh",
+    "IATA": "Banda Aceh",
+    "ICAO": "BTJ"
+  },
+  {
+    "No": 30,
+    "Nama bandara": "Bandara Udara Fatmawati Soekarno",
+    "Provinsi": "Bengkulu",
+    "IATA": "Kota Bengkulu",
+    "ICAO": "BKS"
+  },
+  {
+    "No": 31,
+    "Nama bandara": "Bandara Udara Internasional H.A.S. Hanandjoeddin",
+    "Provinsi": "Bangka Belitung",
+    "IATA": "Tanjung Pandan",
+    "ICAO": "TJQ"
+  },
+  {
+    "No": 32,
+    "Nama bandara": "Bandara Udara Internasional Juwata",
+    "Provinsi": "Kalimantan Utara",
+    "IATA": "Tarakan",
+    "ICAO": "TRK"
+  },
+  {
+    "No": 33,
+    "Nama bandara": "Bandara Udara Tjilik Riwut",
+    "Provinsi": "Kalimantan Tengah",
+    "IATA": "Palangkaraya",
+    "ICAO": "PKY"
+  },
+  {
+    "No": 34,
+    "Nama bandara": "Bandara Udara Sultan Aji Muhammad Sulaiman",
+    "Provinsi": "Kalimantan Timur",
+    "IATA": "Balikpapan",
+    "ICAO": "BPN"
+  },
+  {
+    "No": 35,
+    "Nama bandara": "Bandara Udara Sultan Babullah",
+    "Provinsi": "Maluku Utara",
+    "IATA": "Ternate",
+    "ICAO": "TTE"
+  },
+  {
+    "No": 36,
+    "Nama bandara": "Bandara Udara Rendani",
+    "Provinsi": "Papua Barat",
+    "IATA": "Manokwari",
+    "ICAO": "MKW"
+  },
+  {
+    "No": 37,
+    "Nama bandara": "Bandara Udara Jalaluddin",
+    "Provinsi": "Gorontalo",
+    "IATA": "Kota Gorontalo",
+    "ICAO": "GTO"
+  },
+  {
+    "No": 38,
+    "Nama bandara": "Bandara Udara Iskandar",
+    "Provinsi": "Kalimantan Tengah",
+    "IATA": "Pangkalan Bun",
+    "ICAO": "PKN"
+  },
+  {
+    "No": 39,
+    "Nama bandara": "Bandara Udara Internasional Samarinda",
+    "Provinsi": "Kalimantan Timur",
+    "IATA": "Samarinda",
+    "ICAO": "AAP/WALS"
+  },
+  {
+    "No": 40,
+    "Nama bandara": "Bandara Udara Kalimarau",
+    "Provinsi": "Kalimantan Timur",
+    "IATA": "Tanjung Redeb",
+    "ICAO": "BEJ"
+  },
+  {
+    "No": 41,
+    "Nama bandara": "Bandara Udara Komodo",
+    "Provinsi": "Nusa Tenggara Timur",
+    "IATA": "Labuan Bajo",
+    "ICAO": "LBJ"
+  },
+  {
+    "No": 42,
+    "Nama bandara": "Bandara Udara H. Asan",
+    "Provinsi": "Kalimantan Tengah",
+    "IATA": "Sampit",
+    "ICAO": "SMQ"
+  },
+  {
+    "No": 43,
+    "Nama bandara": "Bandara Udara Internasional Mopah",
+    "Provinsi": "Papua",
+    "IATA": "Merauke",
+    "ICAO": "MKQ"
+  },
+  {
+    "No": 44,
+    "Nama bandara": "Bandara Udara Rahadi Osman",
+    "Provinsi": "Kalimantan Barat",
+    "IATA": "Ketapang",
+    "ICAO": "KTG"
+  },
+  {
+    "No": 45,
+    "Nama bandara": "Bandara Udara Sultan Muhammad Salahuddin",
+    "Provinsi": "Nusa Tenggara Barat",
+    "IATA": "Bima",
+    "ICAO": "BMU"
+  },
+  {
+    "No": 46,
+    "Nama bandara": "Bandara Udara Internasional Raja Haji Fisabilillah",
+    "Provinsi": "Kepulauan Riau",
+    "IATA": "Tanjung Pinang",
+    "ICAO": "TNJ"
+  },
+  {
+    "No": 47,
+    "Nama bandara": "Bandara Udara Frans Kaisiepo",
+    "Provinsi": "Papua",
+    "IATA": "Biak",
+    "ICAO": "BIK"
+  },
+  {
+    "No": 48,
+    "Nama bandara": "Bandara Udara Wamena",
+    "Provinsi": "Papua",
+    "IATA": "Wamena",
+    "ICAO": "WMX"
+  },
+  {
+    "No": 49,
+    "Nama bandara": "Bandara Udara Binaka",
+    "Provinsi": "Sumatra Utara",
+    "IATA": "Gunung Sitoli",
+    "ICAO": "GNS"
+  },
+  {
+    "No": 50,
+    "Nama bandara": "Bandara Udara Betoambari",
+    "Provinsi": "Sulawesi Tenggara",
+    "IATA": "Baubau",
+    "ICAO": "BUW"
+  },
+  {
+    "No": 51,
+    "Nama bandara": "Bandara Udara H. Hasan Aroeboesman",
+    "Provinsi": "Nusa Tenggara Timur",
+    "IATA": "Ende",
+    "ICAO": "ENE"
+  },
+  {
+    "No": 52,
+    "Nama bandara": "Bandara Udara Mozes Kilangin",
+    "Provinsi": "Papua",
+    "IATA": "Timika",
+    "ICAO": "TIM"
+  }
+]
